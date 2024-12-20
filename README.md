@@ -12,6 +12,8 @@ Step 2) Open the file "soil_5(2).ipynd" in Jupyter Notebook
 
 Step 3) In the first code chunk set your working directory to the location of the "soil_project" file. It should look close to this: 'E:\\soil_project'
 
+Step 4) Change the latitude and logitude to your desired location (Must be in Rhode Island)
+
 Step 4) Run all code. The output is located all below. Enjoy your information.
 
 
